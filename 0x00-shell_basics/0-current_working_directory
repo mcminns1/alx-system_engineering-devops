@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/alx-system_engineering-devops/0-shell_basics/0-current_working_director"
+pwd 0-current_working_directory
