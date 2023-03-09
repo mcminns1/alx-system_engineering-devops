@@ -1,0 +1,2 @@
+#!/bin/bash
+su julien chmod 75 w+x
