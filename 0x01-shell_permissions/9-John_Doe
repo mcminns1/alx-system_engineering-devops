@@ -1,2 +1,2 @@
 #!/bin/bash
-su julien chmod 75 w+x
+su julien chmod 753 hello 
