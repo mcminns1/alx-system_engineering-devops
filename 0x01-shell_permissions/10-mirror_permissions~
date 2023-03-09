@@ -1,0 +1,2 @@
+#!/bin/bash
+diff -buf hello olleh
