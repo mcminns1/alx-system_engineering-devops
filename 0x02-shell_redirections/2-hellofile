@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | fmt etc/passwd
+less etc/passwd
