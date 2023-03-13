@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -l 6 iacta
+head -n 6 iacta | tail -n 1
