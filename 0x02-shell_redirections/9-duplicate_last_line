@@ -1,2 +1,2 @@
 #!/bin/bash
-sep -1 iacta
+sep -n -1 iacta
