@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -c 6 iacta
+grep -l 6 iacta
